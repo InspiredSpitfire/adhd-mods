@@ -1,0 +1,10 @@
+{
+  "name": "body-double",
+  "version": "0.1.0",
+  "description": "A pane beside the chat: the task you are on, the focus timer, and what you finished today. /double, /done.",
+  "author": {
+    "name": "Inspired Spitfire"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

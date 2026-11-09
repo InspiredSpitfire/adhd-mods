@@ -1,0 +1,10 @@
+{
+  "name": "focus-timer",
+  "version": "0.1.0",
+  "description": "A focus timer above the prompt: /timer 25 write the essay, then pause, +5, break, stop.",
+  "author": {
+    "name": "Inspired Spitfire"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

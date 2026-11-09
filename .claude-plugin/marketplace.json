@@ -1,0 +1,19 @@
+{
+  "name": "adhd-mods",
+  "description": "Claude Code mods for ADHD brains, by Inspired Spitfire: a focus timer and a body double.",
+  "owner": {
+    "name": "Inspired Spitfire"
+  },
+  "plugins": [
+    {
+      "name": "focus-timer",
+      "source": "./focus-timer",
+      "description": "A focus timer above the prompt: /timer 25 write the essay, then pause, +5, break, stop. Ends with a toast, a voice, and a line with some personality."
+    },
+    {
+      "name": "body-double",
+      "source": "./body-double",
+      "description": "A pane beside the chat: the task you are on, the focus timer, and what you finished today. Every focus block that runs out lands on the list."
+    }
+  ]
+}
